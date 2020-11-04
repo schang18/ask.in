@@ -3215,6 +3215,7 @@ input, select, textarea {
 
 				.wrapper > .inner {
 					padding: 4em 4em 2em 4em ;
+					margin-top: 12em ;
 				}
 
 			}
@@ -3223,6 +3224,7 @@ input, select, textarea {
 
 				.wrapper > .inner {
 					width: 100%;
+					margin-top: 12em ;
 				}
 
 			}
@@ -3231,6 +3233,7 @@ input, select, textarea {
 
 				.wrapper > .inner {
 					padding: 3em 2em 1em 2em ;
+					margin-top: 12em ;
 				}
 
 			}
@@ -3901,7 +3904,7 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/intro.svg");
+		background-image: url("images/home_image.png");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
