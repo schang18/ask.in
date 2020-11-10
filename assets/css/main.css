@@ -3950,7 +3950,7 @@ input, select, textarea {
 		background-image: url("images/home_image.png");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: 100% 100%;
+		background-size: auto 100%;
 	}
 
 		#intro p {
