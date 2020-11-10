@@ -222,6 +222,11 @@ input, select, textarea {
 				width: 100%;
 			}
 
+	img.logo {
+		width: 30%
+		height: 30%;
+	}
+
 	h2 {
 		font-size: 1.75em;
 	}
