@@ -3023,11 +3023,11 @@ input, select, textarea {
 
 		.spotlights > section > .image {
 			background-position: center center;
-			background-size: contain;
+			background-size: 100% 100%;
 			border-radius: 0;
 			display: block;
 			position: relative;
-			width: 30em;
+			width: 45em;
 		}
 
 			.spotlights > section > .image img {
