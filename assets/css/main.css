@@ -3274,10 +3274,10 @@ input, select, textarea {
 			margin-top: 12em ;
 		}
 
-			@media screen and (max-width: 1680px) {
+			@media screen and (min-width: 1280px) {
 
 				.wrapper > .inner2 {
-					padding: 0em 0em 18em 5em ;
+					padding: 0em 0em 13em 5em ;
 				}
 
 			}
@@ -3971,6 +3971,7 @@ input, select, textarea {
 		background-size: auto 65vw;
 	}
 
+
 		#intro p {
 			font-size: 1.25em;
 		}
@@ -3995,6 +3996,14 @@ input, select, textarea {
 
 			#intro {
 				background-attachment: scroll;
+			}
+
+		}
+
+		@media screen and (min-width: 1280px) {
+
+			#intro {
+				background-size: auto 46vw;
 			}
 
 		}
