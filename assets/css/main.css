@@ -3246,7 +3246,7 @@ input, select, textarea {
 			@media screen and (max-width: 1680px) {
 
 				.wrapper > .inner {
-					padding: 4em 4em 2em 4em ;
+					padding: 4em 2em 4em 2em ;
 				}
 
 			}
@@ -3277,7 +3277,7 @@ input, select, textarea {
 			@media screen and (max-width: 1680px) {
 
 				.wrapper > .inner2 {
-					padding: 4em 4em 2em 4em ;
+					padding: 0em 0em 18em 5em ;
 				}
 
 			}
@@ -3286,6 +3286,7 @@ input, select, textarea {
 
 				.wrapper > .inner2 {
 					width: 100%;
+					padding: 0em 0em 13em 5em ;
 				}
 
 			}
@@ -3965,9 +3966,9 @@ input, select, textarea {
 	#intro {
 		background-attachment: scroll;
 		background-image: url("images/home_image.png");
-		background-position: top right;
+		background-position: center right;
 		background-repeat: no-repeat;
-		background-size: auto 100%;
+		background-size: auto 65vw;
 	}
 
 		#intro p {
