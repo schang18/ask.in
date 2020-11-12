@@ -3032,7 +3032,8 @@ input, select, textarea {
 			border-radius: 0;
 			display: block;
 			position: relative;
-			width: 45em;
+			width: 61vw;
+			height: 27vw;
 		}
 
 			.spotlights > section > .image img {
